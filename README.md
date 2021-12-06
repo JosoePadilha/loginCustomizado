@@ -1,0 +1,1 @@
+This application aims to demonstrate in a very simple way (no validations, no middwares, requests, return messages...) the redirection of clients and users of a system depending on their level of access, with 5 login attempts, after these attempts, it will be necessary to wait 1 minute to make a new attempt.
